@@ -11,47 +11,47 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Epidemiology, The University of Hong Kong, 2027 (expected)
+* Master of Public Health (Control in Infectious disease), The University of Hong Kong, 2023
+* BSc in Chemistry, The Chinese University of Hong Kong, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Residential Tutor (2022 June - Present)
+  * Suen Chi Sun Hall, HKU Jockey Club Student Village II
+  * pastoral care, wellbeing of undergraduate residents, make sure everyone is treated equally and content
+  * organised occasional gatherings, conducted satisfaction surveys....
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Committee Secretary, Hong Kong student chapter,  (May 2025 - Aug 2026)
+  * The International Society for Pharmacoepidemiology (ISPE)
+  * Organised a Tram party for students during the ISPE's Asia conference
+  * Liasion and communication with the global ISPE student council
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * School of Public Health and Primary Care, The Chinese University of Hong Kong
+  * Tutoring of PHPC 2010 Health Care System & Policy
+  * Hong Kong Hospital Authority's Patient Experience Survey Analysis
+  * Post-discharge information summary development and user surveys
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Science
+  * R, SAS, SPSS, Python, Excel VBA
+  * (really basic) Machine learning
+* Server management
+  * bash
+  * postgresql
+  * parquet 
+* Adobe Creative cloud
+  * Photoshop / Indesign / Illustrator
+  * Premiere Pro / After effects / Audition
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student member of International Society for Pharmacoepidemiology (ISPE)
