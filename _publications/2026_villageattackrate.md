@@ -3,7 +3,7 @@ title: "Concurrent comparison of severity of influenza and coronavirus disease 2
 collection: publications
 category: manuscripts
 permalink: /publication/2026_villageattackrate
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We compared outcomes among patients with coronavirus disease 2019 and influenza during the Omicron era. Coronavirus disease 2019 was associated with more severe outcomes than influenza. Co-infection had higher 30-day mortality risk compared with mono-infections.'
 date: 2026-09-01
 venue: 'International Journal of Infectious Diseases'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/42413685/'
